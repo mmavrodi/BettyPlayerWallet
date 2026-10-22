@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="BettyPlayerWallet.Application.Tests/BettyPlayerWallet.Application.Tests.csproj" />
+    <Project Path="BettyPlayerWallet.Domain.Tests/BettyPlayerWallet.Domain.Tests.csproj" />
+    <Project Path="BettyPlayerWallet.Infrastructure.Tests/BettyPlayerWallet.Infrastructure.Tests.csproj" />
+  </Folder>
+  <Project Path="BettyPlayerWallet.Application/BettyPlayerWallet.Application.csproj" />
+  <Project Path="BettyPlayerWallet.Domain/BettyPlayerWallet.Domain.csproj" />
+  <Project Path="BettyPlayerWallet.Infrastructure/BettyPlayerWallet.Infrastructure.csproj" />
+  <Project Path="BettyPlayerWallet.Presentation/BettyPlayerWallet.Presentation.csproj" />
+</Solution>
